@@ -3,6 +3,7 @@ package com.technicalinterview.instagramclone.Controller;
 import java.util.ArrayList;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -13,6 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.technicalinterview.instagramclone.Entity.Comments;
 import com.technicalinterview.instagramclone.Service.CommentsService;
 
+@CrossOrigin
 @RestController
 @RequestMapping("/comments")
 public class CommentController {
