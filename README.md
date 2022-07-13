@@ -2,10 +2,10 @@
 
 Instagram Cloning Using React+ Spring boot+Firebase
 Complete Series:
-1. Introduction & Project Setup: https://youtu.be/r7DgYAULBqU
-2. Complete UI Development Using React: https://youtu.be/1uSQpwJGUhY
-3. Complete Back End Development using Spring-Boot: https://youtu.be/r7DgYAULBqU
-4. Integrating the Front End with REST API & FireBase.: https://youtu.be/m1tjDBFYIzI
+1. Introduction & Project Setup: https://youtu.be/IZMN6N9vpcE
+2. Complete UI Development Using React: https://youtu.be/KSDYjonD95A
+3. Complete Back End Development using Spring-Boot: https://youtu.be/cvfiTRO8ZVw
+4. Integrating the Front End with REST API & FireBase.: https://youtu.be/-79pfrlsOPU
 
 
 1. git clone https://github.com/cracktechnicalinterview/insta-backend.git
